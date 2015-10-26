@@ -8,5 +8,4 @@ For each year and for each type of PM source, the NEI records how many tons of P
 course of the entire year. The data used for this assignment are for 1999, 2002, 2005, and 2008.
 
 The overall goal of this assignment is to explore the National Emissions Inventory database and see what it say about 
-fine particulate matter pollution in the United states over the 10-year period 1999-2008. You may use any R package you want to 
-support your analysis.
+fine particulate matter pollution in the United states over the 10-year period 1999-2008. 
